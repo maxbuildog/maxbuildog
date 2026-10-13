@@ -1,32 +1,33 @@
-## Maxime
+## Hi, I'm Max
 
-I build small tools, and open-source the ones that turn out to be useful to someone
-other than me.
+I build things with AI, and mostly I build the boring parts that make them hold up:
+the checks, the logs, the watchdog that notices when an agent quietly stopped working.
 
-Most of what I make measures something instead of guessing about it. A scanner that
-tells a store owner which of their product pages silently went `noindex` after a theme
-update. An agent that reads a whole ad account before it offers an opinion. A script
-that answers a question I got tired of answering by hand.
+I came to code from the other side of the table. I spent years running online stores,
+so I tend to start from a business problem and work back to the tool, not the other
+way around.
 
-E-commerce and Shopify first, because that is where I have the data: **1,083
-storefronts scanned** so far, from the outside, the way a crawler sees them. Other
-domains as I get to them.
+Today I build software and automations for my own projects, and I run a small fleet
+of my own agents in production: customer support, ads, SEO, monitoring. Most of what
+I know comes from watching them break.
 
-### `skills`
+What I care about:
 
-Agent skills that measure rather than advise. Deterministic checks, prevalence taken
-from real scans instead of intuition, everything runs on your own machine and nothing
-phones home. The first one audits whether AI assistants can actually find and
-recommend a Shopify store.
+- **Measure before you opinionate.** An agent with a ruler beats an agent with a
+  confident essay.
+- **Boring and reliable over clever.** If it needs me to babysit it, it is not done.
+- **Open-source what turns out useful.** That is what you will find pinned below.
 
-Not published yet. It lands here.
+A few things I've shipped:
 
-### Elsewhere
-
-I run [StoreCanary](https://storecanary.io/?ref=github-profile), which watches
-e-commerce storefronts for the things that quietly stop them selling.
+- [StoreCanary](https://storecanary.io/?ref=github-profile): watches e-commerce
+  storefronts for the things that quietly stop them selling.
+- [AdAnvil](https://github.com/maxbuildog/adanvil): an MCP server that lets an AI agent
+  edit vertical video ads from your own footage.
+- [skills](https://github.com/maxbuildog/skills): agent skills that measure instead of
+  guess.
 
 ---
 
-Building in public on [X](https://x.com/Max_Buildog). Happy to look at your store if
-something is broken and you cannot work out what.
+Building in public on [X](https://x.com/Max_Buildog). If you are stuck on something
+I might have hit before, say hi.
