@@ -23,6 +23,9 @@ Remote, in English or French.
 - [AdAnvil](https://github.com/maxbuildog/adanvil): an MCP server that lets an
   AI agent edit vertical video ads from your own footage. On PyPI and the
   official MCP registry.
+- [n8n-workflows](https://github.com/maxbuildog/n8n-workflows): n8n templates
+  for an online store: AI email support, site chat, comment moderation,
+  shipping and stock alerts.
 - [skills](https://github.com/maxbuildog/skills): agent skills that measure
   instead of guess.
 - [StoreCanary](https://storecanary.io/?ref=github-profile): a SaaS that watches
